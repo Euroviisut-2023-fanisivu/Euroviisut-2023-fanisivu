@@ -153,8 +153,8 @@ body {
         display: inline-block;
         
         margin-bottom: 60px;
-        margin-left: 40px;
-        margin-right: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
     
     .overlay {
@@ -206,8 +206,8 @@ body {
     grid-template-columns: repeat(2,1fr);
     grid-gap: 60px;
     object-position: center;
-    margin-left: 50px;
-    margin-right: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 40px;
 
 }
